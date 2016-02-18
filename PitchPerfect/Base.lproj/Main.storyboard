@@ -244,8 +244,8 @@
                             <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="Cqz-9d-8jD" secondAttribute="bottom" constant="50" id="09y-c3-eCv"/>
                             <constraint firstItem="iwc-Rh-OYd" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="1bb-Hg-K2D"/>
                             <constraint firstItem="6J9-c0-PlQ" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="Cbt-xn-Io2"/>
-                            <constraint firstItem="Cqz-9d-8jD" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" constant="100" id="DnN-C2-Fi1"/>
-                            <constraint firstAttribute="trailingMargin" secondItem="3l3-AX-Eie" secondAttribute="trailing" constant="100" id="JZJ-p7-nsv"/>
+                            <constraint firstItem="Cqz-9d-8jD" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerXWithinMargins" constant="-50" id="DnN-C2-Fi1"/>
+                            <constraint firstAttribute="centerXWithinMargins" secondItem="3l3-AX-Eie" secondAttribute="centerX" constant="-50" id="JZJ-p7-nsv"/>
                             <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="3l3-AX-Eie" secondAttribute="bottom" constant="50" id="Lh9-mG-dfD"/>
                             <constraint firstItem="iwc-Rh-OYd" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="lTo-j7-YAT"/>
                             <constraint firstItem="6J9-c0-PlQ" firstAttribute="top" secondItem="iwc-Rh-OYd" secondAttribute="bottom" constant="8" id="xa6-fq-f5M"/>
